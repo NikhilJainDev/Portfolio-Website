@@ -1,0 +1,48 @@
+.navbar-profile-pic img{
+    border-radius: 90px;
+    height: 150px;
+    width: 150px;
+    display: flex;
+    vertical-align: middle;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.nav-item{
+color: white;
+margin-top: 30px;
+margin-left: 25px;
+}
+
+.nav-link{
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.nav-link svg{
+margin-right: 10px;
+}
+
+.nav-link.hemp-menu {
+    font-size: 1.2rem;
+    color: #4caf50; /* Green to represent hemp */
+    cursor: pointer;
+    transition: transform 0.2s ease-in-out;
+  }
+  
+  .nav-link.hemp-menu:hover {
+    transform: scale(1.1);
+  }
+  
+
+/* Adding Hover Effect */
+.nav-link:hover{
+    color: powderblue;
+    box-shadow: 0px 1px 2px yellow;
+}
+.nav-link .active{
+  color: #f29f67;
+  border-left: 5px solid #f29f67;
+  padding-left: 10px;
+  text-decoration: none;
+}
