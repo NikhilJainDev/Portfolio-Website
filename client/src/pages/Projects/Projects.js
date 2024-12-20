@@ -42,7 +42,7 @@ const Projects = () => {
                   </div>
                   <a
                     className="ad-btn"
-                    href="https://github.com/techinfo-youtube/ecommerce-app-2023"
+                    href="https://github.com/student-NikhilJain/My_Portfolio_MERNStack"
                   >
                     View
                   </a>

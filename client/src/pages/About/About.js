@@ -8,7 +8,7 @@ const About = () => {
     <div className="about" id="about">
         <div className="row">
             <div className="col-md-6 col-xl-6 col-lg-6 col-xs-12 about-img">
-                <img src="https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720_1280.jpg"
+                <img src="images/source/about_mern_3.jpg"
                 alt="Profile_pic"/>
             </div>
             <div className="col-md-6 col-xl-6 col-lg-6 col-xs-12 about-content">
