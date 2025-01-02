@@ -1,17 +1,20 @@
 import Layout from "./components/Layout/Layout";
 import About from "./pages/About/About";
-import Contact from "./pages/Contact/Contact";
+
 import Education from "./pages/Educations/Education";
 import Projects from "./pages/Projects/Projects";
 import Techstack from "./pages/Techstack/Techstack";
-import WorkExp from "./pages/workExp/work"; // Renamed the import
+import WorkExp from "./pages/workExp/work"; 
 import ScrollToTop from "react-scroll-to-top";
 import { useTheme } from "./context/ThemeContext";
+import MobileNav from "./components/MobileNav/MobileNav";
+import { ContactUs } from "./pages/Contact/Contact";
 function App() {
   const [theme] = useTheme()
   return (
     <>
     <div id={theme}>
+      <MobileNav/>
      <Layout/>
     <div className="container">
           <About />
@@ -19,7 +22,7 @@ function App() {
           <Techstack />
           <Projects />
           <WorkExp /> {/* Corrected component usage */}
-          <Contact />
+        <ContactUs/>
         </div>
 
         <div className="footer pb-3 ms-3">

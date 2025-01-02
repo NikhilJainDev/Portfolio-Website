@@ -42,7 +42,7 @@ const Projects = () => {
                   </div>
                   <a
                     className="ad-btn"
-                    href="https://github.com/student-NikhilJain/My_Portfolio_MERNStack"
+                    href="https://github.com/student-NikhilJain/-Personal-Portfolio-"
                   >
                     View
                   </a>
@@ -54,22 +54,22 @@ const Projects = () => {
                 <div className="card-image">
                   <span className="card-notify-badge">Software</span>
                   <img
-                    src="https://d2ms8rpfqc4h24.cloudfront.net/feature_image_2f8add8e86.jpg"
+                    src="https://acropolium.com/img/articles/the-a-z-guide-to-e-commerce-app-development-benefits-features-and-cost/img01.jpg"
                     alt="project2"
                   />
                 </div>
                 <div className="card-image-overly m-auto mt-3">
-                  <span className="card-detail-badge">Python/Tkinter</span>
+                  <span className="card-detail-badge">MERN</span>
 
-                  <span className="card-detail-badge">MySQL</span>
+                  <span className="card-detail-badge">Payment Gateway</span>
                 </div>
                 <div className="card-body text-center">
                   <div className="ad-title m-auto">
-                    <h5 className="text-uppercase">Hospital Management Software</h5>
+                    <h5 className="text-uppercase">E-Commerce Fullstack Application</h5>
                   </div>
                   <a
                     className="ad-btn"
-                    href="https://github.com/techinfo-youtube/ecommerce-app-2023"
+                    href="https://github.com/student-NikhilJain/E-Commerce-App-MERN-Fullstack"
                   >
                     View
                   </a>
@@ -86,10 +86,10 @@ const Projects = () => {
                   />
                 </div>
                 <div className="card-image-overly m-auto mt-3">
-                  <span className="card-detail-badge">HTML5/CSS3</span>
-                  <span className="card-detail-badge">Javascript</span>
+                  <span className="card-detail-badge">React.js</span>
+                  <span className="card-detail-badge">TypeScript</span>
 
-                  <span className="card-detail-badge">Libraries</span>
+                  <span className="card-detail-badge">Open AI API's</span>
                 </div>
                 <div className="card-body text-center">
                   <div className="ad-title m-auto">

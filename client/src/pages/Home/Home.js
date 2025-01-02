@@ -3,7 +3,8 @@ import { useTheme } from '../../context/ThemeContext';
 import Typewriter from 'typewriter-effect';
 import { BsFillMoonStarsFill, BsFillSunFill} from "react-icons/bs";
 import './home.css';
-import Resume from '../../assets/docs/resume.pdf'
+import Resume from '../../assets/docs/resume.txt'
+
 import Fade from 'react-reveal/Fade';
 const Home = () => {
   const [theme, setTheme] = useTheme()
@@ -38,8 +39,15 @@ const Home = () => {
         </Fade>
         <Fade bottom>
         <div className="home-buttons">
-          <button className="btn btn-hire">Hire me</button>
-          <a className="btn btn-cv" href={Resume} download="C:/Users/nikhi/Downloads/22epccl036%20(3).pdf">My Resume</a>
+        <a
+                className="btn btn-hire"
+                href="https://api.whatsapp.com/send?phone=8426005061"
+                rel="noreferrer"
+                target="_blank"
+              >
+                Hire Me
+              </a>
+          <a className="btn btn-cv" href={Resume} download="resume.txt">My Resume</a>
         </div>
         </Fade>
       </div>
@@ -48,4 +56,4 @@ const Home = () => {
   )
 }
 
-export default Home
+export default Home;
