@@ -33,7 +33,7 @@ export const ContactUs = () => {
       <div className="contact-content">
         <div className="contact-image">
           <img
-            src="https://img.freepik.com/free-vector/flat-contact-us-background_23-2148178908.jpg"
+            src="https://media.istockphoto.com/id/1252809376/photo/japanese-man-at-hand-using-a-smartphone.jpg?s=612x612&w=0&k=20&c=3zUF1981mbU4mN3gmQ8IYWU96HAs1pPEN89WYKw5NAQ="
             alt="Contact Us"
           />
         </div>
