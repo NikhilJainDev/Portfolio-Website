@@ -22,7 +22,7 @@ const Projects = () => {
             <div className="col-md-4">
               <div className="card rounded">
                 <div className="card-image">
-                  <span className="card-notify-badge">FullStack MERN</span>
+                  <span className="card-notify-badge">Frontend/React.js</span>
                   <img
                     src="https://www.interviewbit.com/blog/wp-content/uploads/2021/08/web-developer.jpg"
                     alt="project1"
@@ -42,7 +42,7 @@ const Projects = () => {
                   </div>
                   <a
                     className="ad-btn"
-                    href="https://github.com/student-NikhilJain/-Personal-Portfolio-"
+                    href="https://github.com/NikhilJainDev/Portfolio-Website"
                   >
                     View
                   </a>
@@ -52,9 +52,9 @@ const Projects = () => {
             <div className="col-md-4">
               <div className="card rounded">
                 <div className="card-image">
-                  <span className="card-notify-badge">Software</span>
+                  <span className="card-notify-badge">Software Based</span>
                   <img
-                    src="https://acropolium.com/img/articles/the-a-z-guide-to-e-commerce-app-development-benefits-features-and-cost/img01.jpg"
+                    src="https://empmonitor.com/blog/wp-content/uploads/2020/04/Importance-Of-Employee-Management-System.png"
                     alt="project2"
                   />
                 </div>
@@ -65,11 +65,11 @@ const Projects = () => {
                 </div>
                 <div className="card-body text-center">
                   <div className="ad-title m-auto">
-                    <h5 className="text-uppercase">E-Commerce Fullstack Application</h5>
+                    <h5 className="text-uppercase">Employee Management System</h5>
                   </div>
                   <a
                     className="ad-btn"
-                    href="https://github.com/student-NikhilJain/E-Commerce-App-MERN-Fullstack"
+                    href="https://github.com/NikhilJainDev/Employee-Management-System"
                   >
                     View
                   </a>

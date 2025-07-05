@@ -23,19 +23,18 @@ const work = () => {
               contentArrowStyle={{
                 borderRight: "7px solid  white",
               }}
-              date="2023 - present"
+              date=" May'25 - Present"
               iconStyle={{ background: "#1e1e2c", color: "#fff" }}
               icon={<SiReact />}
             >
               <h3 className="vertical-timeline-element-title">
-                Python Intern
+                Web Development Intern
               </h3>
               <h4 className="vertical-timeline-element-subtitle">
-                Learn & Build, Jaipur
+                Pinnacle Labs , Kolkata (West Bengal)
               </h4>
               <p>
-                Learned Python From Basic to Adv. and It's Libraries like Numpy,
-                 pandas, and Matplotlib
+                Completed a Web Development Internship at Pinnacle Labs from May 2025 to June 2025, where I was assigned real-world tasks focused on frontend development.
               </p>
             </VerticalTimelineElement>
             <VerticalTimelineElement
@@ -44,7 +43,7 @@ const work = () => {
               contentArrowStyle={{
                 borderRight: "7px solid  white",
               }}
-              date="2020 - 2022"
+              date=" May'23 - July'23"
               iconStyle={{ background: "#1e1e2c", color: "#fff" }}
               icon={<SiReact />}
             >
@@ -65,19 +64,18 @@ const work = () => {
               contentArrowStyle={{
                 borderRight: "7px solid  white",
               }}
-              date="2018 - 2020"
+              date="July'22 - Aug'2022"
               iconStyle={{ background: "#1e1e2c", color: "#fff" }}
               icon={<SiReact />}
             >
               <h3 className="vertical-timeline-element-title">
-               Data Aalyst
+               Python Intern
               </h3>
               <h4 className="vertical-timeline-element-subtitle">
-                Data Bricks, Noida, UP
+                 Learn and Build Pvt. Ltd
               </h4>
               <p>
-                Cleaning Records, Maintaning, Data Retrival and Data
-                Data Analyst Records.
+                Python Trainee at Learn and Build 
               </p>
             </VerticalTimelineElement>
           </VerticalTimeline>
