@@ -1,5 +1,4 @@
 <<<<<<< HEAD
-<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -74,7 +73,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # Portfolio-Website
 My Personal Portfolio Website
 >>>>>>> 376fa424305a2343ed41057658958c015e5055e2
-=======
-# My_Portfolio_MERNStack
-This is My personal Portfolio Website , It is fully-responsive as I developed with React.js , Express.js , Node Server API's and with use of Many tools as Compitable to all of devices. This is my Major Project . I added Nodemailer and SendGrid API's for Mail Notification that has send by the user to the admin.
->>>>>>> 1e0178056a8ed212e2d0aa492533af448712328f
