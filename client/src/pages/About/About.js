@@ -8,13 +8,13 @@ const About = () => {
     <div className="about" id="about">
         <div className="row">
             <div className="col-md-6 col-xl-6 col-lg-6 col-xs-12 about-img">
-                <img src="images/source/about_mern_3.jpg"
+                <img src="images/source/nikhil_image.jpg"
                 alt="Profile_pic"/>
             </div>
             <div className="col-md-6 col-xl-6 col-lg-6 col-xs-12 about-content">
                 <h1>About Me 👨‍💻</h1>
                     <p>
-                    Hello! I'm <b>Nikhil Jain</b>, a passionate 3rd-year Computer Engineering student with an insatiable hunger for technological knowledge and innovation. 💻✨
+                    Hello! I'm <b>Nikhil Jain</b>, a passionate Final year Computer Engineering student with an insatiable hunger for technological knowledge and innovation. 💻✨
 
  I am Proficient in <b>C++, Python, and Data Structures & Algorithms (DSA)</b>, I am also a Fullstack Developer, constantly learning and evolving my skills to stay ahead in this dynamic field. 🌐 My expertise lies in creating seamless and functional websites using <b><i>Node.js, Express, React, and MongoDB, with robust REST APIs</i></b>.
 
